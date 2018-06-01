@@ -53,7 +53,7 @@ h1{/* for main heading*/
 
 p{font-family: 'Bree Serif';} /*google font*/
 
-footer{background-color: #333;text-align: right; margin-top: 50px; }
+footer{background-color: #333;text-align: center; margin-top: 50px; }
 .fa {
     padding: 20px;
     font-size: 30px;
